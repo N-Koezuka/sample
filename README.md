@@ -1,2 +1,2 @@
-Console.Write("ごはん");
+Console.Write("ハンバーグ");
 
